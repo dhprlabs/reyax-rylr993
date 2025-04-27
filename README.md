@@ -1,6 +1,7 @@
 # LoRa Transceiver Modules
 
-![rpi4 pinout diagram](assets/)
+## Hardware Setup
+![Setup](assets/)
 
 A pair of example projects demonstrating LoRa communication using Reyax RYLR-993 Lite modules:
 
@@ -55,7 +56,11 @@ This repository contains code and wiring details for a LoRa-based transceiver sy
 └── README.md                    # This file
 ```
 
+## Raspberry Pi 4 Pinout Diagram
 ![rpi4 pinout diagram](assets/rpi4.png)
+
+
+## ESP32 Pinout Diagram
 ![esp32 pinout diagram](assets/esp32.webp)
 
 ---
