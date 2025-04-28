@@ -1,7 +1,7 @@
 # LoRa Transceiver Modules
 
 ## Hardware Setup
-![Setup](assets/)
+![Setup](assets/setup.jpeg)
 
 A pair of example projects demonstrating LoRa communication using Reyax RYLR-993 Lite modules:
 
